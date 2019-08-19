@@ -1,4 +1,4 @@
 # HN2Vec
-papers of HN embedding\usage(recommendation).
+Papers of HN embedding\usage(recommendation) I have read.
 
-welcome to communicate and discuss with me about these paper or techniques on graph embedding or graph based recommendation system.
+Welcome to communicate and discuss with me about these paper or techniques on graph embedding or graph based recommendation system.
